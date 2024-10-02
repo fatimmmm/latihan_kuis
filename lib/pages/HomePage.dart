@@ -78,7 +78,7 @@ var foodMenuList = [
         'Nasi, telur, ayam, bawang putih, bawang merah, kecap manis, garam, cabai',
     cookingTime: '15 minutes',
     price: 'Rp 20000',
-    imageAsset: 'images/nasigoreng.jpg',
+    imageAsset: 'images/nasi_goreng.jpg',
     imageUrls: [
       'https://www.resepmakansedap.com/images/nasi-goreng.jpg',
       'https://www.example.com/nasi-goreng-2.jpg',
@@ -235,7 +235,7 @@ var foodMenuList = [
     ingredients: 'Rice, Coconut Milk, Spices, Fried Chicken, Egg, Sambal',
     cookingTime: '30 minutes',
     price: 'Rp 20.000',
-    imageAsset: 'assets/images/nasi-uduk.jpg',
+    imageAsset: 'images/nasi-uduk.jpg',
     imageUrls: [
       'https://example.com/images/nasi-uduk1.jpg',
       'https://example.com/images/nasi-uduk2.jpg',
@@ -250,7 +250,7 @@ var foodMenuList = [
     ingredients: 'Beef, Coconut Milk, Spices, Potato, Tomato, Fried Shallot',
     cookingTime: '45 minutes',
     price: 'Rp 30.000',
-    imageAsset: 'assets/images/soto-betawi.jpg',
+    imageAsset: 'images/soto-betawi.jpg',
     imageUrls: [
       'https://example.com/images/soto-betawi1.jpg',
       'https://example.com/images/soto-betawi2.jpg',
@@ -265,7 +265,7 @@ var foodMenuList = [
     ingredients: 'Fish, Tapioca, Garlic, Vinegar, Sugar, Chili',
     cookingTime: '60 minutes',
     price: 'Rp 25.000',
-    imageAsset: 'assets/images/pempek.jpg',
+    imageAsset: 'images/pempek.jpg',
     imageUrls: [
       'https://example.com/images/pempek1.jpg',
       'https://example.com/images/pempek2.jpg',
@@ -280,7 +280,7 @@ var foodMenuList = [
     ingredients: 'Rice, Coconut Milk, Chicken, Tempeh, Spices',
     cookingTime: '40 minutes',
     price: 'Rp 25.000',
-    imageAsset: 'assets/images/nasi-liwet.jpg',
+    imageAsset: 'images/nasi-liwet.jpg',
     imageUrls: [
       'https://example.com/images/nasi-liwet1.jpg',
       'https://example.com/images/nasi-liwet2.jpg',
@@ -295,7 +295,7 @@ var foodMenuList = [
     ingredients: 'Eggs, Minced Meat, Spring Onions, Flour, Spices',
     cookingTime: '20 minutes',
     price: 'Rp 15.000',
-    imageAsset: 'assets/images/martabak-telur.jpg',
+    imageAsset: 'images/martabak-telur.jpg',
     imageUrls: [
       'https://example.com/images/martabak-telur1.jpg',
       'https://example.com/images/martabak-telur2.jpg',
@@ -310,7 +310,7 @@ var foodMenuList = [
     ingredients: 'Rice, Chicken, Soy Sauce, Fried Shallots, Crackers',
     cookingTime: '30 minutes',
     price: 'Rp 12.000',
-    imageAsset: 'assets/images/bubur-ayam.jpg',
+    imageAsset: 'images/bubur-ayam.jpg',
     imageUrls: [
       'https://example.com/images/bubur-ayam1.jpg',
       'https://example.com/images/bubur-ayam2.jpg',
@@ -325,7 +325,7 @@ var foodMenuList = [
     ingredients: 'Rice Flour, Coconut Milk, Palm Sugar, Ice, Pandan',
     cookingTime: '15 minutes',
     price: 'Rp 10.000',
-    imageAsset: 'assets/images/es-cendol.jpg',
+    imageAsset: 'images/es-cendol.jpg',
     imageUrls: [
       'https://example.com/images/es-cendol1.jpg',
       'https://example.com/images/es-cendol2.jpg',
@@ -340,7 +340,7 @@ var foodMenuList = [
     ingredients: 'Goat Meat, Coconut Milk, Spices, Chili, Lemongrass',
     cookingTime: '90 minutes',
     price: 'Rp 35.000',
-    imageAsset: 'assets/images/gulai-kambing.jpg',
+    imageAsset: 'images/gulai-kambing.jpg',
     imageUrls: [
       'https://example.com/images/gulai-kambing1.jpg',
       'https://example.com/images/gulai-kambing2.jpg',
@@ -355,7 +355,7 @@ var foodMenuList = [
     ingredients: 'Glutinous Rice, Egg, Fried Shallots, Coconut, Spices',
     cookingTime: '25 minutes',
     price: 'Rp 20.000',
-    imageAsset: 'assets/images/kerak-telor.jpg',
+    imageAsset: 'images/kerak-telor.jpg',
     imageUrls: [
       'https://example.com/images/kerak-telor1.jpg',
       'https://example.com/images/kerak-telor2.jpg',
