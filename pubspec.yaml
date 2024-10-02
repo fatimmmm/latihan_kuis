@@ -59,8 +59,28 @@ flutter:
   uses-material-design: true
 
   assets:
+  - images/mie-ayam.jpg
+  - images/es-campur.jpg
+  - images/martabak-manis.jpg
+  - images/klepon.jpg
+  - images/nasi-uduk.jpg
+  - images/soto-betawi.jpg
+  - images/soto-ayam.jpg
+  - images/pempek.jpg
+  - images/nasi-liwet.jpg
+  - images/martabak-telur.jpg
+  - images/bubur-ayam.jpg
+  - images/es-cendol.jpg
+  - images/gulai-kambing.jpg
+  - images/kerak-telor.jpg
+  - images/rendang.jpg
+  - images/gado-gado.jpg
+  - images/sate-ayam.jpg
   - images/nasi_goreng.jpg
-  #   - images/a_dot_ham.jpeg
+  - images/bakso.jpg
+    
+     
+       
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/to/resolution-aware-images
